@@ -1,0 +1,9 @@
+{
+	"name": "dobleye",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2014, tat",
+	"authors": ["tatarhy"],
+	"dependencies": {
+		"derelict": "~master"
+	}
+}
